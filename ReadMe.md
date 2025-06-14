@@ -8,7 +8,7 @@ ROS supported robots and SlicerROS2 (https://github.com/rosmed/slicer_ros2_modul
 2. Go to the SlicerROS2 module in 3D Slicer to active the SlicerROS2 node
 3. Switch to the "JustNoticeableDiff" module to activate the testing
 
-![Alt text](JustNotcieableDiff/Resources/UserInterface.png)
+![Demo Image](NoticeableDifferenceTesting/JustNotcieableDiff/Resources/UserInterface.png)
 
 4. Initialize the publishers using the button at the top of the module
 5. Ensure that force is being applied with the selector and "Publish Force" button
